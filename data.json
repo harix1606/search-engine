@@ -1,4 +1,81 @@
 {
+    "P": [
+        {
+            "keyword": "Printing",
+            "URL": [
+                "https://www.ted.com/talks/heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1",
+                "https://www.ted.com/talks/lee_cronin_print_your_own_medicine",
+                "https://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing"
+            ]
+        },
+        {
+            "keyword": "peace",
+            "URL": [
+                "https://www.ted.com/talks/gayle_tzemach_lemmon_meet_the_first_women_to_fight_on_the_front_lines_of_an_american_war"
+            ]
+        },
+        {
+            "keyword": "philanthropy",
+            "URL": [
+                "https://www.ted.com/talks/sherwin_nuland_on_hope"
+            ]
+        },
+        {
+            "keyword": "philosophy",
+            "URL": [
+                "https://www.ted.com/talks/aaron_o_connell_making_sense_of_a_visible_quantum_object",
+                "https://www.ted.com/talks/jim_holt_why_does_the_universe_exist"
+            ]
+        },
+        {
+            "keyword": "physics",
+            "URL": [
+                "https://www.ted.com/talks/garrett_lisi_on_his_theory_of_everything"
+            ]
+        },
+        {
+            "keyword": "Planets",
+            "URL": [
+                "https://www.ted.com/talks/aomawa_shields_how_we_ll_find_life_on_other_planets",
+                "https://www.ted.com/talks/brian_greene_why_is_our_universe_fine_tuned_for_life",
+                "https://www.ted.com/talks/carolyn_porco_could_a_saturn_moon_harbor_life",
+                "https://www.ted.com/talks/dimitar_sasselov_how_we_found_hundreds_of_potential_earth_like_planets",
+                "https://www.ted.com/talks/freeman_dyson_says_let_s_look_for_life_in_the_outer_solar_system",
+                "https://www.ted.com/talks/jeremy_kasdin_the_flower_shaped_starshade_that_might_help_us_detect_earth_like_planets",
+                "https://www.ted.com/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space",
+                "https://www.ted.com/talks/questions_no_one_knows_the_answers_to",
+                "https://www.ted.com/talks/sara_seager_the_search_for_planets_beyond_our_solar_system",
+                "https://www.ted.com/talks/wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe"
+            ]
+        },
+        {
+            "keyword": "poetry",
+            "URL": [
+                "https://www.ted.com/talks/clint_smith_the_danger_of_silence"
+            ]
+        },
+        {
+            "keyword": "politics",
+            "URL": [
+                "https://www.ted.com/talks/suki_kim_this_is_what_it_s_like_to_go_undercover_in_north_korea"
+            ]
+        },
+        {
+            "keyword": "PTSD",
+            "URL": [
+                "https://www.ted.com/talks/hector_garcia_we_train_soldiers_for_war_let_s_train_them_to_come_home_too",
+                "https://www.ted.com/talks/inge_missmahl_brings_peace_to_the_minds_of_afghanistan",
+                "https://www.ted.com/talks/jake_wood_a_new_mission_for_veterans_disaster_relief",
+                "https://www.ted.com/talks/janine_di_giovanni_what_i_saw_in_the_war",
+                "https://www.ted.com/talks/jean_paul_mari_the_chilling_aftershock_of_a_brush_with_death",
+                "https://www.ted.com/talks/melissa_walker_art_can_heal_ptsd_s_invisible_wounds",
+                "https://www.ted.com/talks/rebecca_brachman_could_a_drug_prevent_depression_and_ptsd",
+                "https://www.ted.com/talks/sebastian_junger_our_lonely_society_makes_it_hard_to_come_home_from_war",
+                "https://www.ted.com/talks/sebastian_junger_why_veterans_miss_war",
+                "https://www.ted.com/talks/wes_moore_how_to_talk_to_veterans_about_the_war"
+            ]
+        }
+    ],
     "A": [
         {
             "keyword": "activism",
@@ -337,7 +414,7 @@
             ]
         },
         {
-            "keyword": "alternative energy",
+            "keyword": "alternative-energy",
             "URL": [
                 "https://www.ted.com/talks/al_gore_on_averting_climate_crisis",
                 "https://www.ted.com/talks/al_gore_the_case_for_optimism_on_climate_change",
@@ -373,7 +450,7 @@
             ]
         },
         {
-            "keyword": "ancient world",
+            "keyword": "ancient-world",
             "URL": [
                 "https://www.ted.com/talks/bran_ferren_to_create_for_the_ages_let_s_combine_art_and_engineering",
                 "https://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities",
@@ -706,7 +783,7 @@
             ]
         },
         {
-            "keyword": "Autism spectrum disorder",
+            "keyword": "Autism-spectrum-disorder",
             "URL": [
                 "https://www.ted.com/talks/alix_generous_how_i_learned_to_communicate_my_inner_life_with_asperger_s",
                 "https://www.ted.com/talks/ami_klin_a_new_way_to_diagnose_autism",
@@ -757,7 +834,7 @@
             ]
         },
         {
-            "keyword": "behavioral economics",
+            "keyword": "behavioral-economics",
             "URL": [
                 "https://www.ted.com/talks/alex_laskey_how_behavioral_science_can_lower_your_energy_bill",
                 "https://www.ted.com/talks/dan_ariely_how_equal_do_we_want_the_world_to_be_you_d_be_surprised",
@@ -775,13 +852,13 @@
             ]
         },
         {
-            "keyword": "big bang",
+            "keyword": "big-bang",
             "URL": [
                 "https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics"
             ]
         },
         {
-            "keyword": "big problems",
+            "keyword": "big-problems",
             "URL": [
                 "https://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt",
                 "https://www.ted.com/talks/anote_tong_my_country_will_be_underwater_soon_unless_we_work_together",
@@ -926,7 +1003,7 @@
             ]
         },
         {
-            "keyword": "body language",
+            "keyword": "body-language",
             "URL": [
                 "https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are",
                 "https://www.ted.com/talks/david_hanson_robots_that_relate_to_you",
@@ -1256,7 +1333,7 @@
             ]
         },
         {
-            "keyword": "charter for compassion",
+            "keyword": "charter-for-compassion",
             "URL": [
                 "https://www.ted.com/talks/imam_feisal_abdul_rauf",
                 "https://www.ted.com/talks/jackie_tabick",
@@ -1389,7 +1466,7 @@
             ]
         },
         {
-            "keyword": "climate change",
+            "keyword": "climate-change",
             "URL": [
                 "https://www.ted.com/talks/ben_saunders_skis_to_the_north_pole",
                 "https://www.ted.com/talks/david_deutsch_on_our_place_in_the_cosmos",
@@ -1415,7 +1492,7 @@
             ]
         },
         {
-            "keyword": "cognitive science",
+            "keyword": "cognitive-science",
             "URL": [
                 "https://www.ted.com/talks/dan_ariely_beware_conflicts_of_interest",
                 "https://www.ted.com/talks/emily_levine_s_theory_of_everything",
@@ -1633,7 +1710,7 @@
             ]
         },
         {
-            "keyword": "Criminal Justice",
+            "keyword": "Criminal-Justice",
             "URL": [
                 "https://www.ted.com/talks/adam_foss_a_prosecutor_s_vision_for_a_better_justice_system",
                 "https://www.ted.com/talks/alice_goffman_college_or_prison_two_destinies_one_blatant_injustice",
@@ -1786,7 +1863,7 @@
             ]
         },
         {
-            "keyword": "dark matter",
+            "keyword": "dark-matter",
             "URL": [
                 "https://www.ted.com/talks/janna_levin_the_sound_the_universe_makes"
             ]
@@ -1906,7 +1983,7 @@
             ]
         },
         {
-            "keyword": "disaster relief",
+            "keyword": "disaster-relief",
             "URL": [
                 "https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster"
             ]
@@ -2152,7 +2229,7 @@
             ]
         },
         {
-            "keyword": "Foreign Policy",
+            "keyword": "Foreign-Policy",
             "URL": [
                 "https://www.ted.com/talks/david_rothkopf_how_fear_drives_american_politics",
                 "https://www.ted.com/talks/madeleine_albright_on_being_a_woman_and_a_diplomat",
@@ -2188,7 +2265,7 @@
             ]
         },
         {
-            "keyword": "Gender equality",
+            "keyword": "Gender-equality",
             "URL": [
                 "https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are",
                 "https://www.ted.com/talks/anne_marie_slaughter_can_we_all_have_it_all",
@@ -2224,7 +2301,7 @@
             ]
         },
         {
-            "keyword": "Gender spectrum",
+            "keyword": "Gender-spectrum",
             "URL": [
                 "https://www.ted.com/talks/alice_dreger_is_anatomy_destiny",
                 "https://www.ted.com/talks/ivan_coyote_why_we_need_gender_neutral_bathrooms",
@@ -2233,7 +2310,7 @@
             ]
         },
         {
-            "keyword": "global development",
+            "keyword": "global-development",
             "URL": [
                 "https://www.ted.com/talks/jamie_drummond_how_to_set_goals_for_the_world",
                 "https://www.ted.com/talks/joe_madiath_better_toilets_better_life",
@@ -2241,7 +2318,7 @@
             ]
         },
         {
-            "keyword": "global issues",
+            "keyword": "global-issues",
             "URL": [
                 "https://www.ted.com/talks/arunachalam_muruganantham_how_i_started_a_sanitary_napkin_revolution",
                 "https://www.ted.com/talks/barat_ali_batoor_my_desperate_journey_with_a_human_smuggler",
@@ -2346,7 +2423,7 @@
             ]
         },
         {
-            "keyword": "health care",
+            "keyword": "health-care",
             "URL": [
                 "https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine",
                 "https://www.ted.com/talks/charity_tilleman_dick_singing_after_a_double_lung_transplant",
@@ -2362,7 +2439,7 @@
             ]
         },
         {
-            "keyword": "Human body",
+            "keyword": "Human-body",
             "URL": [
                 "https://www.ted.com/talks/alexander_tsiaras_conception_to_birth_visualized",
                 "https://www.ted.com/talks/diane_kelly_what_we_didn_t_know_about_penis_anatomy",
@@ -2375,7 +2452,7 @@
             ]
         },
         {
-            "keyword": "human origins",
+            "keyword": "human-origins",
             "URL": [
                 "https://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street"
             ]
@@ -2549,7 +2626,7 @@
             ]
         },
         {
-            "keyword": "live music",
+            "keyword": "live-music",
             "URL": [
                 "https://www.ted.com/talks/daria_van_den_bercken_why_i_take_the_piano_on_the_road_and_in_the_air",
                 "https://www.ted.com/talks/herbie_hancock_s_all_star_set",
@@ -2563,7 +2640,7 @@
     ],
     "M": [
         {
-            "keyword": "MacArthur grant",
+            "keyword": "MacArthur-grant",
             "URL": [
                 "https://www.ted.com/talks/amory_lovins_on_winning_the_oil_endgame",
                 "https://www.ted.com/talks/amy_smith_shares_simple_lifesaving_design",
@@ -2633,7 +2710,7 @@
             ]
         },
         {
-            "keyword": "Middle East",
+            "keyword": "Middle-East",
             "URL": [
                 "https://www.ted.com/talks/aala_el_khani_what_it_s_like_to_be_a_parent_in_a_war_zone",
                 "https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism",
@@ -2650,7 +2727,7 @@
             ]
         },
         {
-            "keyword": "mission blue",
+            "keyword": "mission-blue",
             "URL": [
                 "https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean",
                 "https://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean",
@@ -2663,6 +2740,446 @@
                 "https://www.ted.com/talks/bill_stone_explores_the_earth_and_space",
                 "https://www.ted.com/talks/david_baron_you_owe_it_to_yourself_to_experience_a_total_solar_eclipse",
                 "https://www.ted.com/talks/jon_nguyen_tour_the_solar_system_from_home"
+            ]
+        },
+        {
+            "keyword": "Misc",
+            "URL": [
+                "https://www.ted.com/talks/9_11_healing_the_mothers_who_found_forgiveness_friendship",
+                "https://www.ted.com/talks/a_choir_as_big_as_the_internet",
+                "https://www.ted.com/talks/a_j_jacobs_year_of_living_biblically",
+                "https://www.ted.com/talks/a_robot_that_flies_like_a_bird",
+                "https://www.ted.com/talks/a_ted_speaker_s_worst_nightmare",
+                "https://www.ted.com/talks/a_whistleblower_you_haven_t_heard",
+                "https://www.ted.com/talks/aakash_odedra_a_dance_in_a_hurricane_of_paper_wind_and_light",
+                "https://www.ted.com/talks/aala_el_khani_what_it_s_like_to_be_a_parent_in_a_war_zone",
+                "https://www.ted.com/talks/aaron_huey",
+                "https://www.ted.com/talks/aaron_koblin",
+                "https://www.ted.com/talks/aaron_o_connell_making_sense_of_a_visible_quantum_object",
+                "https://www.ted.com/talks/abe_davis_new_video_technology_that_reveals_an_object_s_hidden_properties",
+                "https://www.ted.com/talks/abha_dawesar_life_in_the_digital_now",
+                "https://www.ted.com/talks/abigail_marsh_why_some_people_are_more_altruistic_than_others",
+                "https://www.ted.com/talks/abigail_washburn_building_us_china_relations_by_banjo",
+                "https://www.ted.com/talks/abraham_verghese_a_doctor_s_touch",
+                "https://www.ted.com/talks/achenyo_idachaba_how_i_turned_a_deadly_plant_into_a_thriving_business",
+                "https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy",
+                "https://www.ted.com/talks/adam_davidson_what_we_learned_from_teetering_on_the_fiscal_cliff",
+                "https://www.ted.com/talks/adam_de_la_zerda_how_we_can_start_winning_the_war_against_cancer",
+                "https://www.ted.com/talks/adam_driver_my_journey_from_marine_to_actor",
+                "https://www.ted.com/talks/adam_foss_a_prosecutor_s_vision_for_a_better_justice_system",
+                "https://www.ted.com/talks/adam_galinsky_how_to_speak_up_for_yourself",
+                "https://www.ted.com/talks/adam_garone_healthier_men_one_moustache_at_a_time",
+                "https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker",
+                "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
+                "https://www.ted.com/talks/adam_grosser_and_his_sustainable_fridge",
+                "https://www.ted.com/talks/adam_ostrow_after_your_final_status_update",
+                "https://www.ted.com/talks/adam_sadowsky_engineers_a_viral_music_video",
+                "https://www.ted.com/talks/adam_savage_my_love_letter_to_cosplay",
+                "https://www.ted.com/talks/adam_savage_s_obsessions",
+                "https://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers",
+                "https://www.ted.com/talks/aditi_gupta_a_taboo_free_way_to_talk_about_periods",
+                "https://www.ted.com/talks/aditi_shankardass_a_second_opinion_on_learning_disorders",
+                "https://www.ted.com/talks/adora_svitak",
+                "https://www.ted.com/talks/afra_raymond_three_myths_about_corruption",
+                "https://www.ted.com/talks/ahn_trio_a_modern_take_on_piano_violin_cello",
+                "https://www.ted.com/talks/aimee_mullins_on_running",
+                "https://www.ted.com/talks/aimee_mullins_prosthetic_aesthetics",
+                "https://www.ted.com/talks/aimee_mullins_the_opportunity_of_adversity",
+                "https://www.ted.com/talks/aj_jacobs_how_healthy_living_nearly_killed_me",
+                "https://www.ted.com/talks/aj_jacobs_the_world_s_largest_family_reunion_we_re_all_invited",
+                "https://www.ted.com/talks/ajit_narayanan_a_word_game_to_communicate_in_any_language",
+                "https://www.ted.com/talks/al_gore_on_averting_climate_crisis",
+                "https://www.ted.com/talks/al_gore_s_new_thinking_on_the_climate_crisis",
+                "https://www.ted.com/talks/al_gore_the_case_for_optimism_on_climate_change",
+                "https://www.ted.com/talks/al_gore_warns_on_latest_climate_trends",
+                "https://www.ted.com/talks/al_seckel_says_our_brains_are_mis_wired",
+                "https://www.ted.com/talks/al_vernacchio_sex_needs_a_new_metaphor_here_s_one",
+                "https://www.ted.com/talks/alaa_murabit_what_my_religion_really_says_about_women",
+                "https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success",
+                "https://www.ted.com/talks/alain_de_botton_atheism_2_0",
+                "https://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it",
+                "https://www.ted.com/talks/alan_kay_shares_a_powerful_idea_about_ideas",
+                "https://www.ted.com/talks/alan_russell_on_regenerating_our_bodies",
+                "https://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon",
+                "https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics",
+                "https://www.ted.com/talks/alanna_shaikh_how_i_m_preparing_to_get_alzheimer_s",
+                "https://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people",
+                "https://www.ted.com/talks/alberto_cairo_there_are_no_scraps_of_men",
+                "https://www.ted.com/talks/alec_soth_stacey_baker_this_is_what_enduring_love_looks_like",
+                "https://www.ted.com/talks/alejandro_aravena_my_architectural_philosophy_bring_the_community_into_the_process",
+                "https://www.ted.com/talks/alejandro_sanchez_alvarado_to_solve_old_problems_study_new_species",
+                "https://www.ted.com/talks/aleph_molinari_let_s_bridge_the_digital_divide",
+                "https://www.ted.com/talks/alessandra_orofino_it_s_our_city_let_s_fix_it",
+                "https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters",
+                "https://www.ted.com/talks/alex_kipman_the_dawn_of_the_age_of_holograms",
+                "https://www.ted.com/talks/alex_laskey_how_behavioral_science_can_lower_your_energy_bill",
+                "https://www.ted.com/talks/alex_steffen",
+                "https://www.ted.com/talks/alex_steffen_sees_a_sustainable_future",
+                "https://www.ted.com/talks/alex_tabarrok_foresees_economic_growth",
+                "https://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence",
+                "https://www.ted.com/talks/alexa_meade",
+                "https://www.ted.com/talks/alexander_betts_our_refugee_system_is_failing_here_s_how_we_can_fix_it",
+                "https://www.ted.com/talks/alexander_betts_why_brexit_happened_and_what_to_do_next",
+                "https://www.ted.com/talks/alexander_tsiaras_conception_to_birth_visualized",
+                "https://www.ted.com/talks/alexander_wagner_what_really_motivates_people_to_be_honest_in_business",
+                "https://www.ted.com/talks/alexis_ohanian_how_to_make_a_splash_in_social_media",
+                "https://www.ted.com/talks/ali_carr_chellman_gaming_to_re_engage_boys_in_learning",
+                "https://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt",
+                "https://www.ted.com/talks/alice_dreger_is_anatomy_destiny",
+                "https://www.ted.com/talks/alice_goffman_college_or_prison_two_destinies_one_blatant_injustice",
+                "https://www.ted.com/talks/alice_rawsthorn_pirates_nurses_and_other_rebel_designers",
+                "https://www.ted.com/talks/alicia_garza_patrisse_cullors_and_opal_tometi_an_interview_with_the_founders_of_black_lives_matter",
+                "https://www.ted.com/talks/alisa_miller_shares_the_news_about_the_news",
+                "https://www.ted.com/talks/alison_gopnik_what_do_babies_think",
+                "https://www.ted.com/talks/alison_jackson_looks_at_celebrity",
+                "https://www.ted.com/talks/alison_killing_there_s_a_better_way_to_die_and_architecture_can_help",
+                "https://www.ted.com/talks/alison_killing_what_happens_when_a_city_runs_out_of_room_for_its_dead",
+                "https://www.ted.com/talks/alix_generous_how_i_learned_to_communicate_my_inner_life_with_asperger_s",
+                "https://www.ted.com/talks/allan_adams_the_discovery_that_could_rewrite_physics",
+                "https://www.ted.com/talks/allan_adams_what_the_discovery_of_gravitational_waves_means",
+                "https://www.ted.com/talks/allan_jones_a_map_of_the_brain",
+                "https://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change",
+                "https://www.ted.com/talks/allison_hunt_gets_a_new_hip",
+                "https://www.ted.com/talks/alwar_balasubramaniam_sculpture_of_substance_and_absence",
+                "https://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women",
+                "https://www.ted.com/talks/alyssa_monks_how_loss_helped_one_artist_find_beauty_in_imperfection",
+                "https://www.ted.com/talks/amanda_bennett_a_heroic_narrative_for_letting_go",
+                "https://www.ted.com/talks/amanda_burden_how_public_spaces_make_cities_work",
+                "https://www.ted.com/talks/amanda_palmer_jherek_bischoff_usman_riaz_space_oddity",
+                "https://www.ted.com/talks/amanda_palmer_the_art_of_asking",
+                "https://www.ted.com/talks/amber_case_we_are_all_cyborgs_now",
+                "https://www.ted.com/talks/ameenah_gurib_fakim_humble_plants_that_hide_surprising_secrets",
+                "https://www.ted.com/talks/ameera_harouda_why_i_put_myself_in_danger_to_tell_the_stories_of_gaza",
+                "https://www.ted.com/talks/ami_klin_a_new_way_to_diagnose_autism",
+                "https://www.ted.com/talks/amit_sood_building_a_museum_of_museums_on_the_web",
+                "https://www.ted.com/talks/amit_sood_every_piece_of_art_you_ve_ever_wanted_to_see_up_close_and_searchable",
+                "https://www.ted.com/talks/amory_lovins_a_50_year_plan_for_energy",
+                "https://www.ted.com/talks/amory_lovins_on_winning_the_oil_endgame",
+                "https://www.ted.com/talks/amos_winter_the_cheap_all_terrain_wheelchair",
+                "https://www.ted.com/talks/amy_adele_hasinoff_how_to_practice_safe_sexting",
+                "https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are",
+                "https://www.ted.com/talks/amy_green_a_video_game_to_cope_with_grief",
+                "https://www.ted.com/talks/amy_lockwood_selling_condoms_in_the_congo",
+                "https://www.ted.com/talks/amy_purdy_living_beyond_limits",
+                "https://www.ted.com/talks/amy_smith_shares_simple_lifesaving_design",
+                "https://www.ted.com/talks/amy_tan_on_creativity",
+                "https://www.ted.com/talks/amy_webb_how_i_hacked_online_dating",
+                "https://www.ted.com/talks/anab_jain_why_we_need_to_imagine_different_futures",
+                "https://www.ted.com/talks/anand_agarawala_demos_his_bumptop_desktop",
+                "https://www.ted.com/talks/anand_giridharadas_a_letter_to_all_who_have_lost_in_this_era",
+                "https://www.ted.com/talks/anand_giridharadas_a_tale_of_two_americas_and_the_mini_mart_where_they_collided",
+                "https://www.ted.com/talks/anand_varma_a_thrilling_look_at_the_first_21_days_of_a_bee_s_life",
+                "https://www.ted.com/talks/ananda_shankar_jayant_fights_cancer_with_a_dance",
+                "https://www.ted.com/talks/anant_agarwal_why_massively_open_online_courses_still_matter",
+                "https://www.ted.com/talks/anas_aremeyaw_anas_how_i_named_shamed_and_jailed",
+                "https://www.ted.com/talks/anastasia_taylor_lind_fighters_and_mourners_of_the_ukrainian_revolution",
+                "https://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories",
+                "https://www.ted.com/talks/anders_ynnerman_visualizing_the_medical_data_explosion",
+                "https://www.ted.com/talks/andras_forgacs_leather_and_meat_without_killing_animals",
+                "https://www.ted.com/talks/andrea_ghez_the_hunt_for_a_supermassive_black_hole",
+                "https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results",
+                "https://www.ted.com/talks/andreas_raptopoulos_no_roads_there_s_a_drone_for_that",
+                "https://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools",
+                "https://www.ted.com/talks/andres_lozano_parkinson_s_depression_and_the_switch_that_might_turn_them_off",
+                "https://www.ted.com/talks/andres_ruzo_the_mythical_boiling_river_of_the_amazon",
+                "https://www.ted.com/talks/andrew_bastawrous_get_your_next_eye_exam_on_a_smartphone",
+                "https://www.ted.com/talks/andrew_bird_s_one_man_orchestra_of_the_imagination",
+                "https://www.ted.com/talks/andrew_blum_what_is_the_internet_really",
+                "https://www.ted.com/talks/andrew_connolly_what_s_the_next_window_into_our_universe",
+                "https://www.ted.com/talks/andrew_fitzgerald_adventures_in_twitter_fiction",
+                "https://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs",
+                "https://www.ted.com/talks/andrew_mcafee_what_will_future_jobs_look_like",
+                "https://www.ted.com/talks/andrew_mwenda_takes_a_new_look_at_africa",
+                "https://www.ted.com/talks/andrew_pelling_this_scientist_makes_ears_out_of_apples",
+                "https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share",
+                "https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are",
+                "https://www.ted.com/talks/andrew_solomon_love_no_matter_what",
+                "https://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story",
+                "https://www.ted.com/talks/andrew_youn_3_reasons_why_we_can_win_the_fight_against_poverty",
+                "https://www.ted.com/talks/andy_hobsbawm_says_do_the_green_thing",
+                "https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes",
+                "https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again",
+                "https://www.ted.com/talks/angela_belcher_using_nature_to_grow_batteries",
+                "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+                "https://www.ted.com/talks/angela_patton_a_father_daughter_dance_in_prison",
+                "https://www.ted.com/talks/angelica_dass_the_beauty_of_human_skin_in_every_color",
+                "https://www.ted.com/talks/angelo_vermeulen_how_to_go_to_space_without_having_to_go_to_space",
+                "https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_biology",
+                "https://www.ted.com/talks/anika_paulson_how_i_found_myself_through_music",
+                "https://www.ted.com/talks/anil_ananthaswamy",
+                "https://www.ted.com/talks/anil_gupta_india_s_hidden_hotbeds_of_invention",
+                "https://www.ted.com/talks/anil_seth_how_your_brain_hallucinates_your_conscious_reality",
+                "https://www.ted.com/talks/anjali_tripathi_why_earth_may_someday_look_like_mars",
+                "https://www.ted.com/talks/anjan_chatterjee_how_your_brain_decides_what_is_beautiful",
+                "https://www.ted.com/talks/ann_cooper_talks_school_lunches",
+                "https://www.ted.com/talks/ann_morgan_my_year_reading_a_book_from_every_country_in_the_world",
+                "https://www.ted.com/talks/anna_deavere_smith_s_american_character",
+                "https://www.ted.com/talks/anna_mracek_dietrich_a_plane_you_can_drive",
+                "https://www.ted.com/talks/anne_curzan_what_makes_a_word_real",
+                "https://www.ted.com/talks/anne_lamott_12_truths_i_learned_from_life_and_writing",
+                "https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and_on_your_face",
+                "https://www.ted.com/talks/anne_marie_slaughter_can_we_all_have_it_all",
+                "https://www.ted.com/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime",
+                "https://www.ted.com/talks/annette_heuser_the_3_agencies_with_the_power_to_make_or_break_economies",
+                "https://www.ted.com/talks/annie_lennox_why_i_am_an_hiv_aids_activist",
+                "https://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born",
+                "https://www.ted.com/talks/annmarie_thomas_squishy_circuits",
+                "https://www.ted.com/talks/anote_tong_my_country_will_be_underwater_soon_unless_we_work_together",
+                "https://www.ted.com/talks/anthony_atala_growing_organs_engineering_tissue",
+                "https://www.ted.com/talks/anthony_atala_printing_a_human_kidney",
+                "https://www.ted.com/talks/anthony_d_romero_this_is_what_democracy_looks_like",
+                "https://www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t",
+                "https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness",
+                "https://www.ted.com/talks/antonio_donato_nobre_the_magic_of_the_amazon_a_river_that_flows_invisibly_all_around_us",
+                "https://www.ted.com/talks/antonio_guterres_refugees_have_the_right_to_be_protected",
+                "https://www.ted.com/talks/antony_gormley_sculpted_space_within_and_without",
+                "https://www.ted.com/talks/anupam_mishra_the_ancient_ingenuity_of_water_harvesting",
+                "https://www.ted.com/talks/aomawa_shields_how_we_ll_find_life_on_other_planets",
+                "https://www.ted.com/talks/aparna_rao_art_that_craves_your_attention",
+                "https://www.ted.com/talks/aparna_rao_high_tech_art_with_a_sense_of_humor",
+                "https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection",
+                "https://www.ted.com/talks/ari_wallach_3_ways_to_plan_for_the_very_long_term",
+                "https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep",
+                "https://www.ted.com/talks/ariel_garten_know_thyself_with_a_brain_scanner",
+                "https://www.ted.com/talks/aris_venetikidis_making_sense_of_maps",
+                "https://www.ted.com/talks/armando_azua_bustos_the_most_martian_place_on_earth",
+                "https://www.ted.com/talks/arthur_benjamin_does_mathemagic",
+                "https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education",
+                "https://www.ted.com/talks/arthur_benjamin_the_magic_of_fibonacci_numbers",
+                "https://www.ted.com/talks/arthur_brooks_a_conservative_s_plea_let_s_work_together",
+                "https://www.ted.com/talks/arthur_ganson_makes_moving_sculpture",
+                "https://www.ted.com/talks/arthur_potts_dawson_a_vision_for_sustainable_restaurants",
+                "https://www.ted.com/talks/arunachalam_muruganantham_how_i_started_a_sanitary_napkin_revolution",
+                "https://www.ted.com/talks/arvind_gupta_turning_trash_into_toys_for_learning",
+                "https://www.ted.com/talks/ash_beckham_we_re_all_hiding_something_let_s_find_the_courage_to_open_up",
+                "https://www.ted.com/talks/ash_beckham_when_to_take_a_stand_and_when_to_let_it_go",
+                "https://www.ted.com/talks/asha_de_vos_why_you_should_care_about_whale_poo",
+                "https://www.ted.com/talks/asher_hasan_s_message_of_peace_from_pakistan",
+                "https://www.ted.com/talks/ashley_judd_how_online_abuse_of_women_has_spiraled_out_of_control",
+                "https://www.ted.com/talks/ashraf_ghani_on_rebuilding_broken_states",
+                "https://www.ted.com/talks/ashton_applewhite_let_s_end_ageism",
+                "https://www.ted.com/talks/ashton_cofer_a_young_inventor_s_plan_to_recycle_styrofoam",
+                "https://www.ted.com/talks/aspen_baker_a_better_way_to_talk_about_abortion",
+                "https://www.ted.com/talks/astonishing_performance_by_a_venezuelan_youth_orchestra_1",
+                "https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure",
+                "https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine",
+                "https://www.ted.com/talks/aubrey_de_grey_says_we_can_avoid_aging",
+                "https://www.ted.com/talks/audrey_choi_how_to_make_a_profit_while_making_a_difference",
+                "https://www.ted.com/talks/augie_picado_the_real_reason_manufacturing_jobs_are_disappearing",
+                "https://www.ted.com/talks/auke_ijspeert_a_robot_that_runs_and_swims_like_a_salamander",
+                "https://www.ted.com/talks/auret_van_heerden_making_global_labor_fair",
+                "https://www.ted.com/talks/avi_reichental_what_s_next_in_3d_printing",
+                "https://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked",
+                "https://www.ted.com/talks/award_winning_teen_age_science_in_action",
+                "https://www.ted.com/talks/ayah_bdeir_building_blocks_that_blink_beep_and_teach",
+                "https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism",
+                "https://www.ted.com/talks/aziza_chaouni_how_i_brought_a_river_and_my_city_back_to_life",
+                "https://www.ted.com/talks/baba_shiv_sometimes_it_s_good_to_give_up_the_driver_s_seat",
+                "https://www.ted.com/talks/bahia_shehab_a_thousand_times_no",
+                "https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone",
+                "https://www.ted.com/talks/barat_ali_batoor_my_desperate_journey_with_a_human_smuggler",
+                "https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean",
+                "https://www.ted.com/talks/barbara_natterson_horowitz_what_veterinarians_know_that_doctors_don_t",
+                "https://www.ted.com/talks/barry_schuler_genomics_101",
+                "https://www.ted.com/talks/barry_schwartz_on_our_loss_of_wisdom",
+                "https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice",
+                "https://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken",
+                "https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom",
+                "https://www.ted.com/talks/bart_knols_cheese_dogs_and_pills_to_end_malaria",
+                "https://www.ted.com/talks/bart_weetjens_how_i_taught_rats_to_sniff_out_land_mines",
+                "https://www.ted.com/talks/barton_seaver_sustainable_seafood_let_s_get_smart",
+                "https://www.ted.com/talks/bassam_tariq_the_beauty_and_diversity_of_muslim_life",
+                "https://www.ted.com/talks/bastian_schaefer_a_3d_printed_jumbo_jet",
+                "https://www.ted.com/talks/beardyman_the_polyphonic_me",
+                "https://www.ted.com/talks/beatrice_coron_stories_cut_from_paper",
+                "https://www.ted.com/talks/beau_lotto_amy_o_toole_science_is_for_everyone_kids_included",
+                "https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see",
+                "https://www.ted.com/talks/becci_manson_re_touching_lives_through_photos",
+                "https://www.ted.com/talks/becky_blanton_the_year_i_was_homeless",
+                "https://www.ted.com/talks/beeban_kidron_the_shared_wonder_of_film",
+                "https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams",
+                "https://www.ted.com/talks/ben_ambridge_10_myths_about_psychology_debunked",
+                "https://www.ted.com/talks/ben_cameron_tedxyyc",
+                "https://www.ted.com/talks/ben_dunlap_talks_about_a_passionate_life",
+                "https://www.ted.com/talks/ben_goldacre_battling_bad_science",
+                "https://www.ted.com/talks/ben_goldacre_what_doctors_don_t_know_about_the_drugs_they_prescribe",
+                "https://www.ted.com/talks/ben_kacyra_ancient_wonders_captured_in_3d",
+                "https://www.ted.com/talks/ben_katchor_s_comics_of_old_new_york",
+                "https://www.ted.com/talks/ben_saunders_skis_to_the_north_pole",
+                "https://www.ted.com/talks/ben_saunders_to_the_south_pole_and_back_the_hardest_105_days_of_my_life",
+                "https://www.ted.com/talks/ben_saunders_why_bother_leaving_the_house",
+                "https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data",
+                "https://www.ted.com/talks/benedetta_berti_the_surprising_way_groups_like_isis_stay_in_power",
+                "https://www.ted.com/talks/benjamin_barber_why_mayors_should_rule_the_world",
+                "https://www.ted.com/talks/benjamin_grant_what_it_feels_like_to_see_earth_from_space",
+                "https://www.ted.com/talks/benjamin_wallace_on_the_price_of_happiness",
+                "https://www.ted.com/talks/benjamin_zander_on_music_and_passion",
+                "https://www.ted.com/talks/benoit_mandelbrot_fractals_the_art_of_roughness",
+                "https://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world",
+                "https://www.ted.com/talks/bertrand_piccard_s_solar_powered_adventure",
+                "https://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government",
+                "https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy",
+                "https://www.ted.com/talks/beverly_dereck_joubert_life_lessons_from_big_cats",
+                "https://www.ted.com/talks/bilal_bomani_plant_fuels_that_could_power_a_jet",
+                "https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done",
+                "https://www.ted.com/talks/bill_clinton_on_rebuilding_rwanda",
+                "https://www.ted.com/talks/bill_davenhall_your_health_depends_on_where_you_live",
+                "https://www.ted.com/talks/bill_doyle_treating_cancer_with_electric_fields",
+                "https://www.ted.com/talks/bill_ford_a_future_beyond_traffic_gridlock",
+                "https://www.ted.com/talks/bill_gates",
+                "https://www.ted.com/talks/bill_gates_how_state_budgets_are_breaking_us_schools",
+                "https://www.ted.com/talks/bill_gates_teachers_need_real_feedback",
+                "https://www.ted.com/talks/bill_gates_the_next_disaster_we_re_not_ready",
+                "https://www.ted.com/talks/bill_gates_unplugged",
+                "https://www.ted.com/talks/bill_gross_on_new_energy",
+                "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed",
+                "https://www.ted.com/talks/bill_joy_muses_on_what_s_next",
+                "https://www.ted.com/talks/bill_stone_explores_the_earth_and_space",
+                "https://www.ted.com/talks/bill_strickland_makes_change_with_a_slide_show",
+                "https://www.ted.com/talks/bill_t_jones_the_dancer_the_singer_the_cellist_and_a_moment_of_creative_magic",
+                "https://www.ted.com/talks/billie_jean_king_this_tennis_icon_paved_the_way_for_women_in_sports",
+                "https://www.ted.com/talks/billy_collins_everyday_moments_caught_in_time",
+                "https://www.ted.com/talks/billy_collins_two_poems_about_what_dogs_think_probably",
+                "https://www.ted.com/talks/billy_graham_on_technology_faith_and_suffering",
+                "https://www.ted.com/talks/birke_baehr_what_s_wrong_with_our_food_system",
+                "https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life",
+                "https://www.ted.com/talks/bjarke_ingels_3_warp_speed_architecture_tales",
+                "https://www.ted.com/talks/bjarke_ingels_hedonistic_sustainability",
+                "https://www.ted.com/talks/bjorn_lomborg_sets_global_priorities",
+                "https://www.ted.com/talks/black_my_journey_to_yo_yo_mastery",
+                "https://www.ted.com/talks/blaise_aguera",
+                "https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth",
+                "https://www.ted.com/talks/blaise_aguera_y_arcas_how_computers_are_learning_to_be_creative",
+                "https://www.ted.com/talks/boaz_almog_levitates_a_superconductor",
+                "https://www.ted.com/talks/bob_mankoff_anatomy_of_a_new_yorker_cartoon",
+                "https://www.ted.com/talks/bob_thurman_says_we_can_be_buddhas",
+                "https://www.ted.com/talks/bobby_ghosh_why_global_jihad_is_losing",
+                "https://www.ted.com/talks/bobby_mcferrin_hacks_your_brain_with_music",
+                "https://www.ted.com/talks/boghuma_kabisen_titanji_ethical_riddles_in_hiv_research",
+                "https://www.ted.com/talks/boniface_mwangi_boniface_mwangi_the_day_i_stood_up_alone",
+                "https://www.ted.com/talks/bonnie_bassler_on_how_bacteria_communicate",
+                "https://www.ted.com/talks/bono_s_call_to_action_for_africa",
+                "https://www.ted.com/talks/bono_the_good_news_on_poverty_yes_there_s_good_news",
+                "https://www.ted.com/talks/boyd_varty_what_i_learned_from_nelson_mandela",
+                "https://www.ted.com/talks/bran_ferren_to_create_for_the_ages_let_s_combine_art_and_engineering",
+                "https://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding",
+                "https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls",
+                "https://www.ted.com/talks/brene_brown_listening_to_shame",
+                "https://www.ted.com/talks/brene_brown_on_vulnerability",
+                "https://www.ted.com/talks/brewster_kahle_builds_a_free_digital_library",
+                "https://www.ted.com/talks/brian_cox_on_cern_s_supercollider",
+                "https://www.ted.com/talks/brian_cox_what_went_wrong_at_the_lhc",
+                "https://www.ted.com/talks/brian_cox_why_we_need_the_explorers",
+                "https://www.ted.com/talks/brian_dettmer_old_books_reborn_as_intricate_art",
+                "https://www.ted.com/talks/brian_goldman_doctors_make_mistakes_can_we_talk_about_that",
+                "https://www.ted.com/talks/brian_greene_on_string_theory",
+                "https://www.ted.com/talks/brian_greene_why_is_our_universe_fine_tuned_for_life",
+                "https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality",
+                "https://www.ted.com/talks/brian_skerry_reveals_ocean_s_glory_and_horror",
+                "https://www.ted.com/talks/britta_riley_a_garden_in_my_apartment",
+                "https://www.ted.com/talks/brittney_cooper_the_racial_politics_of_time",
+                "https://www.ted.com/talks/bruce_aylward_how_we_ll_stop_polio",
+                "https://www.ted.com/talks/bruce_aylward_humanity_vs_ebola_the_winning_strategies_in_a_terrifying_war",
+                "https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future",
+                "https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family",
+                "https://www.ted.com/talks/bruce_feiler_the_council_of_dads",
+                "https://www.ted.com/talks/bruce_mccall_s_faux_nostalgia",
+                "https://www.ted.com/talks/bruce_schneier",
+                "https://www.ted.com/talks/bruno_bowden_folds_while_rufus_cappadocia_plays",
+                "https://www.ted.com/talks/bruno_maisonnier_dance_tiny_robots",
+                "https://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting",
+                "https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice",
+                "https://www.ted.com/talks/bunker_roy",
+                "https://www.ted.com/talks/burt_rutan_sees_the_future_of_space",
+                "https://www.ted.com/talks/c_k_williams_reads_poetry_of_youth_and_age",
+                "https://www.ted.com/talks/caitlin_doughty_a_burial_practice_that_nourishes_the_planet",
+                "https://www.ted.com/talks/caitlin_quattromani_and_lauran_arledge_how_our_friendship_survives_our_opposing_politics",
+                "https://www.ted.com/talks/caitria_and_morgan_o_neill_how_to_step_up_in_the_face_of_disaster",
+                "https://www.ted.com/talks/caleb_barlow_where_is_cybercrime_really_coming_from",
+                "https://www.ted.com/talks/caleb_chung_plays_with_pleo",
+                "https://www.ted.com/talks/caleb_harper_this_computer_will_grow_your_food_in_the_future",
+                "https://www.ted.com/talks/cameron_herold_let_s_raise_kids_to_be_entrepreneurs",
+                "https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model",
+                "https://www.ted.com/talks/cameron_sinclair_on_open_source_architecture",
+                "https://www.ted.com/talks/cameron_sinclair_the_refugees_of_boom_and_bust",
+                "https://www.ted.com/talks/camille_a_brown_a_visual_history_of_social_dance_in_25_moves",
+                "https://www.ted.com/talks/camille_seaman_haunting_photos_of_ice",
+                "https://www.ted.com/talks/camille_seaman_photos_from_a_storm_chaser",
+                "https://www.ted.com/talks/candy_chang_before_i_die_i_want_to",
+                "https://www.ted.com/talks/capt_charles_moore_on_the_seas_of_plastic",
+                "https://www.ted.com/talks/carin_bondar_the_birds_and_the_bees_are_just_the_beginning",
+                "https://www.ted.com/talks/carina_morillo_to_understand_autism_don_t_look_away",
+                "https://www.ted.com/talks/carl_honore_praises_slowness",
+                "https://www.ted.com/talks/carl_safina_the_oil_spill_s_unseen_culprits_victims",
+                "https://www.ted.com/talks/carl_safina_what_are_animals_thinking_and_feeling",
+                "https://www.ted.com/talks/carl_schoonover_how_to_look_inside_the_brain",
+                "https://www.ted.com/talks/carlo_ratti_architecture_that_senses_and_responds",
+                "https://www.ted.com/talks/carmen_agra_deedy_spins_stories",
+                "https://www.ted.com/talks/carne_ross_an_independent_diplomat",
+                "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+                "https://www.ted.com/talks/carol_fishman_cohen_how_to_get_back_to_work_after_a_career_break",
+                "https://www.ted.com/talks/caroline_casey_looking_past_limits",
+                "https://www.ted.com/talks/caroline_lavelle_casts_a_spell_on_cello",
+                "https://www.ted.com/talks/caroline_paul_to_raise_brave_girls_encourage_adventure",
+                "https://www.ted.com/talks/caroline_phillips_hurdy_gurdy_for_beginners",
+                "https://www.ted.com/talks/carolyn_bertozzi_what_the_sugar_coating_on_your_cells_is_trying_to_tell_you",
+                "https://www.ted.com/talks/carolyn_jones_a_tribute_to_nurses",
+                "https://www.ted.com/talks/carolyn_porco_could_a_saturn_moon_harbor_life",
+                "https://www.ted.com/talks/carolyn_porco_flies_us_to_saturn",
+                "https://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities",
+                "https://www.ted.com/talks/carrie_nugent_adventures_of_an_asteroid_hunter",
+                "https://www.ted.com/talks/carrie_poppy_a_scientific_approach_to_the_paranormal",
+                "https://www.ted.com/talks/carter_emmart_demos_a_3d_atlas_of_the_universe",
+                "https://www.ted.com/talks/cary_fowler_one_seed_at_a_time_protecting_the_future_of_food",
+                "https://www.ted.com/talks/casey_brown_know_your_worth_and_then_ask_for_it",
+                "https://www.ted.com/talks/casey_gerald_the_gospel_of_doubt",
+                "https://www.ted.com/talks/cat_laine_engineering_a_better_life_for_all",
+                "https://www.ted.com/talks/catarina_mota_play_with_smart_materials",
+                "https://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens",
+                "https://www.ted.com/talks/catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you",
+                "https://www.ted.com/talks/catherine_mohr_builds_green",
+                "https://www.ted.com/talks/catherine_mohr_surgery_s_past_present_and_robotic_future",
+                "https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end",
+                "https://www.ted.com/talks/cedric_villani_what_s_so_sexy_about_math",
+                "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation",
+                "https://www.ted.com/talks/cesar_harada_a_novel_idea_for_cleaning_up_oil_spills",
+                "https://www.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science",
+                "https://www.ted.com/talks/cesar_kuriyama_one_second_every_day",
+                "https://www.ted.com/talks/chade_meng_tan_everyday_compassion_at_google",
+                "https://www.ted.com/talks/chance_coughenour_how_your_pictures_can_help_reclaim_lost_history",
+                "https://www.ted.com/talks/charity_tilleman_dick_singing_after_a_double_lung_transplant",
+                "https://www.ted.com/talks/charity_wayua_a_few_ways_to_fix_an_ailing_government",
+                "https://www.ted.com/talks/charles_anderson_discovers_dragonflies_that_cross_oceans",
+                "https://www.ted.com/talks/charles_elachi_on_the_mars_rovers",
+                "https://www.ted.com/talks/charles_fleischer_insists_all_things_are_moleeds",
+                "https://www.ted.com/talks/charles_hazlewood",
+                "https://www.ted.com/talks/charles_leadbeater_on_education",
+                "https://www.ted.com/talks/charles_leadbeater_on_innovation",
+                "https://www.ted.com/talks/charles_limb_building_the_musical_muscle",
+                "https://www.ted.com/talks/charles_limb_your_brain_on_improv",
+                "https://www.ted.com/talks/charles_robertson_africa_s_next_boom",
+                "https://www.ted.com/talks/charlie_todd_the_shared_experience_of_absurdity",
+                "https://www.ted.com/talks/charmian_gooch_meet_global_corruption_s_hidden_players",
+                "https://www.ted.com/talks/charmian_gooch_my_wish_to_launch_a_new_era_of_openness_in_business",
+                "https://www.ted.com/talks/chelsea_shields_how_i_m_working_for_change_inside_my_church",
+                "https://www.ted.com/talks/cheryl_hayashi_the_magnificence_of_spider_silk",
+                "https://www.ted.com/talks/chetan_bhatt_dare_to_refuse_the_origin_myths_that_claim_who_you_are",
+                "https://www.ted.com/talks/cheyenne_cochrane_a_celebration_of_natural_hair",
+                "https://www.ted.com/talks/chieko_asakawa_how_new_technology_helps_blind_people_explore_the_world",
+                "https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story",
+                "https://www.ted.com/talks/chimamanda_ngozi_adichie_we_should_all_be_feminists",
+                "https://www.ted.com/talks/chinaka_hodge_what_will_you_tell_your_daughters_about_2016",
+                "https://www.ted.com/talks/chip_conley_measuring_what_makes_life_worthwhile",
+                "https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is",
+                "https://www.ted.com/talks/chip_kidd_the_art_of_first_impressions_in_design_and_life",
+                "https://www.ted.com/talks/chris_abani_muses_on_humanity",
+                "https://www.ted.com/talks/chris_abani_on_the_stories_of_africa",
+                "https://www.ted.com/talks/chris_anderson_how_web_video_powers_global_innovation",
+                "https://www.ted.com/talks/chris_anderson_of_wired_on_tech_s_long_tail",
+                "https://www.ted.com/talks/chris_anderson_shares_his_vision_for_ted",
+                "https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking",
+                "https://www.ted.com/talks/chris_bangle_says_great_cars_are_art",
+                "https://www.t"
             ]
         }
     ],
@@ -2687,7 +3204,7 @@
             ]
         },
         {
-            "keyword": "Natural resources",
+            "keyword": "Natural-resources",
             "URL": [
                 "https://www.ted.com/talks/al_gore_warns_on_latest_climate_trends",
                 "https://www.ted.com/talks/amory_lovins_a_50_year_plan_for_energy",
@@ -2701,7 +3218,7 @@
             ]
         },
         {
-            "keyword": "New York",
+            "keyword": "New-York",
             "URL": [
                 "https://www.ted.com/talks/ben_katchor_s_comics_of_old_new_york",
                 "https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data",
@@ -2713,7 +3230,7 @@
             ]
         },
         {
-            "keyword": "Nobel prize",
+            "keyword": "Nobel-prize",
             "URL": [
                 "https://www.ted.com/talks/how_simple_ideas_lead_to_scientific_discoveries",
                 "https://www.ted.com/talks/james_beacham_how_we_explore_unanswered_questions_in_physics",
@@ -2726,83 +3243,6 @@
             "keyword": "oceans",
             "URL": [
                 "https://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid"
-            ]
-        }
-    ],
-    "P": [
-        {
-            "keyword": "peace",
-            "URL": [
-                "https://www.ted.com/talks/gayle_tzemach_lemmon_meet_the_first_women_to_fight_on_the_front_lines_of_an_american_war"
-            ]
-        },
-        {
-            "keyword": "philanthropy",
-            "URL": [
-                "https://www.ted.com/talks/sherwin_nuland_on_hope"
-            ]
-        },
-        {
-            "keyword": "philosophy",
-            "URL": [
-                "https://www.ted.com/talks/aaron_o_connell_making_sense_of_a_visible_quantum_object",
-                "https://www.ted.com/talks/jim_holt_why_does_the_universe_exist"
-            ]
-        },
-        {
-            "keyword": "physics",
-            "URL": [
-                "https://www.ted.com/talks/garrett_lisi_on_his_theory_of_everything"
-            ]
-        },
-        {
-            "keyword": "Planets",
-            "URL": [
-                "https://www.ted.com/talks/aomawa_shields_how_we_ll_find_life_on_other_planets",
-                "https://www.ted.com/talks/brian_greene_why_is_our_universe_fine_tuned_for_life",
-                "https://www.ted.com/talks/carolyn_porco_could_a_saturn_moon_harbor_life",
-                "https://www.ted.com/talks/dimitar_sasselov_how_we_found_hundreds_of_potential_earth_like_planets",
-                "https://www.ted.com/talks/freeman_dyson_says_let_s_look_for_life_in_the_outer_solar_system",
-                "https://www.ted.com/talks/jeremy_kasdin_the_flower_shaped_starshade_that_might_help_us_detect_earth_like_planets",
-                "https://www.ted.com/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space",
-                "https://www.ted.com/talks/questions_no_one_knows_the_answers_to",
-                "https://www.ted.com/talks/sara_seager_the_search_for_planets_beyond_our_solar_system",
-                "https://www.ted.com/talks/wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe"
-            ]
-        },
-        {
-            "keyword": "poetry",
-            "URL": [
-                "https://www.ted.com/talks/clint_smith_the_danger_of_silence"
-            ]
-        },
-        {
-            "keyword": "politics",
-            "URL": [
-                "https://www.ted.com/talks/suki_kim_this_is_what_it_s_like_to_go_undercover_in_north_korea"
-            ]
-        },
-        {
-            "keyword": "printing 3D",
-            "URL": [
-                "https://www.ted.com/talks/heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1",
-                "https://www.ted.com/talks/lee_cronin_print_your_own_medicine",
-                "https://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing"
-            ]
-        },
-        {
-            "keyword": "PTSD",
-            "URL": [
-                "https://www.ted.com/talks/hector_garcia_we_train_soldiers_for_war_let_s_train_them_to_come_home_too",
-                "https://www.ted.com/talks/inge_missmahl_brings_peace_to_the_minds_of_afghanistan",
-                "https://www.ted.com/talks/jake_wood_a_new_mission_for_veterans_disaster_relief",
-                "https://www.ted.com/talks/janine_di_giovanni_what_i_saw_in_the_war",
-                "https://www.ted.com/talks/jean_paul_mari_the_chilling_aftershock_of_a_brush_with_death",
-                "https://www.ted.com/talks/melissa_walker_art_can_heal_ptsd_s_invisible_wounds",
-                "https://www.ted.com/talks/rebecca_brachman_could_a_drug_prevent_depression_and_ptsd",
-                "https://www.ted.com/talks/sebastian_junger_our_lonely_society_makes_it_hard_to_come_home_from_war",
-                "https://www.ted.com/talks/sebastian_junger_why_veterans_miss_war",
-                "https://www.ted.com/talks/wes_moore_how_to_talk_to_veterans_about_the_war"
             ]
         }
     ],
@@ -2856,7 +3296,7 @@
             ]
         },
         {
-            "keyword": "South America",
+            "keyword": "South-America",
             "URL": [
                 "https://www.ted.com/talks/enrique_penalosa_why_buses_represent_democracy_in_action",
                 "https://www.ted.com/talks/francesco_sauro_deep_under_the_earth_s_surface_discovering_beauty_and_science",
@@ -2874,7 +3314,7 @@
             ]
         },
         {
-            "keyword": "String theory",
+            "keyword": "String-theory",
             "URL": [
                 "https://www.ted.com/talks/brian_cox_on_cern_s_supercollider",
                 "https://www.ted.com/talks/brian_greene_on_string_theory",
@@ -2928,7 +3368,7 @@
             ]
         },
         {
-            "keyword": "TED Books",
+            "keyword": "TED-Books",
             "URL": [
                 "https://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken",
                 "https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality",
@@ -2946,7 +3386,7 @@
             ]
         },
         {
-            "keyword": "TED Brain Trust",
+            "keyword": "TED-Brain-Trust",
             "URL": [
                 "https://www.ted.com/talks/amanda_palmer_the_art_of_asking",
                 "https://www.ted.com/talks/bill_gates",
@@ -2987,7 +3427,7 @@
             ]
         },
         {
-            "keyword": "TED en EspaÃ±ol",
+            "keyword": "TED-en-Espa\u00c3\u0192\u00c2\u00b1ol",
             "URL": [
                 "https://www.ted.com/talks/cristina_domenech_poetry_that_frees_the_soul",
                 "https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever",
@@ -2999,7 +3439,7 @@
             ]
         },
         {
-            "keyword": "TED Fellows",
+            "keyword": "TED-Fellows",
             "URL": [
                 "https://www.ted.com/talks/alison_killing_there_s_a_better_way_to_die_and_architecture_can_help",
                 "https://www.ted.com/talks/alison_killing_what_happens_when_a_city_runs_out_of_room_for_its_dead",
@@ -3096,7 +3536,7 @@
             ]
         },
         {
-            "keyword": "TED Prize",
+            "keyword": "TED-Prize",
             "URL": [
                 "https://www.ted.com/talks/astonishing_performance_by_a_venezuelan_youth_orchestra_1",
                 "https://www.ted.com/talks/charmian_gooch_my_wish_to_launch_a_new_era_of_openness_in_business",
@@ -3121,7 +3561,7 @@
             ]
         },
         {
-            "keyword": "TED Residency",
+            "keyword": "TED-Residency",
             "URL": [
                 "https://www.ted.com/talks/duarte_geraldino_what_we_re_missing_in_the_debate_about_immigration",
                 "https://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers",
@@ -3532,7 +3972,7 @@
     ],
     "U": [
         {
-            "keyword": "United States",
+            "keyword": "United-States",
             "URL": [
                 "https://www.ted.com/talks/anthony_d_romero_this_is_what_democracy_looks_like",
                 "https://www.ted.com/talks/courtney_martin_the_new_american_dream",
